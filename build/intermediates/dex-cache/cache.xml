@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\projectandroid\login\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="D:\projectandroid\login\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.8.0_a16932d4efc27bbb0a1ebda206bfc9626e583194.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TaiNguyen\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\projectandroid\login\app\build\intermediates\pre-dexed\debug\glide-3.7.0_89f13f4b9b944587bb451176e59df8362409b659.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\projectandroid\login\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="D:\projectandroid\login\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.8.0_58c8433a125ab14158f0626744c4ffc8d75b485b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\projectandroid\login\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="D:\projectandroid\login\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_fc17b14e43b296bb7566e16debb5673899af9453.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\projectandroid\login\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="D:\projectandroid\login\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.8.0_fff4653d6e71c7d3d4b19ce83071830f9c545566.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\projectandroid\login\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="D:\projectandroid\login\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_c69a96265ad757fb14be42755c6187ecaf340109.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\projectandroid\login\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="D:\projectandroid\login\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_177eb99f5c4657333b508147d697c5572fcdd84b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\projectandroid\login\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="D:\projectandroid\login\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_40185bc91663c7ff09e929722c83b306fcb282f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TaiNguyen\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\projectandroid\login\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_86bd86618fa6a8aa3ee348f0b22c7fc879f2dda6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\projectandroid\login\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="D:\projectandroid\login\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.8.0_6c2df9764a6d1aee7554cf76002bd0fb5170f444.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\projectandroid\login\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="D:\projectandroid\login\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.8.0_4b4ca516e53b728c5340ee29b24ac84b274000df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\projectandroid\login\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="D:\projectandroid\login\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.8.0_b60f712ce18e07338b31c82ca7fbed5d3d065c0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TaiNguyen\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="D:\projectandroid\login\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_5ee0179a7537ec71543cc15ef39a76186857d7b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TaiNguyen\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\projectandroid\login\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_f13d5aab2296def3f270d449c11adb320250f685.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\projectandroid\login\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\projectandroid\login\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_41bcf77cd9ced4c5413de2f5c12bf2a113a20776.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\projectandroid\login\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a1f4c69bbe1b45c1509ea4da724ab2803f5e1af">
+        <dex dex="D:\projectandroid\login\app\build\intermediates\pre-dexed\debug\instant-run_2130daa6c55fc02e97a2c8b0bc01a7e3a45d1a97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TaiNguyen\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="D:\projectandroid\login\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_5c11743321b94a05bc42c69597abd944d321dfcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\projectandroid\login\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.22.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d94c39080a309d1887f50ef68cc96dfe4bc9d01">
+        <dex dex="D:\projectandroid\login\app\build\intermediates\pre-dexed\debug\com.facebook.android-facebook-android-sdk-4.22.0_21d9298eb19a51efa562fa148d94bd3c386009e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\projectandroid\login\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="D:\projectandroid\login\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_09d454a37ccbe77498582ddac7fa0c652664a2c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\projectandroid\login\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c3dfa8a5d8defa405893a2dab3a7a3d2881bc7c6">
+        <dex dex="D:\projectandroid\login\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_2ca435732c09e3ee4076d2c15fb05b18862461db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\projectandroid\login\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="D:\projectandroid\login\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.8.0_046f71e09263ba38417804a1c3c1e21693de30ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\projectandroid\login\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="D:\projectandroid\login\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_db54827f0198a8ce89b9a98ea1a6fcf0824c4391.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\projectandroid\login\app\build\intermediates\exploded-aar\com.android.support\customtabs\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="D:\projectandroid\login\app\build\intermediates\pre-dexed\debug\com.android.support-customtabs-25.0.0_1c98c418a9bec86b3aaa877f186b82e370011bee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\projectandroid\login\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="D:\projectandroid\login\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.8.0_1f51675652277c56acb4d63029e47295a40dc5b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\projectandroid\login\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="D:\projectandroid\login\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_645ae11f5af27d4976c4ead9970b2a8978c3812e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\projectandroid\login\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="D:\projectandroid\login\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.8.0_7131a41ae921317f554893d9d0ca7aa498cd811c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\projectandroid\login\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="D:\projectandroid\login\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.0_840f44f2c4c3d26508da56026ee5b134e3b9ed04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\projectandroid\login\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="D:\projectandroid\login\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_03621e15c963774b6d77e220696c994fc2dfe470.jar" />
+    </item>
+
+</items>

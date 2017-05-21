@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "605359929851",
+    "project_id": "utility-trees-166613"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605359929851:android:4049ab30e7580fc3",
+        "android_client_info": {
+          "package_name": "com.example.tainguyen.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605359929851-bpiqkdm9l419c1sukeblmncl0gsqjgd5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tainguyen.login",
+            "certificate_hash": "d1386213430599783ae315e537d25bd2fd2b81d0"
+          }
+        },
+        {
+          "client_id": "605359929851-2h884kvdgh0984s6o2t159t6ugv822es.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs3smZuc8YHU_h553ADvzfN7905mpjYKQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
